@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pranit Pawar</h1>
 <h3 align="center">A passionate coder from India</h3>
 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70BE6&duration=5300&lines=Welcome+to+my+GitHub+Profile;Always+learning+new+things)](https://git.io/typing-svg)
+
 - 💬 Ask me about **AWS, Terraform**
 
 - 📫 How to reach me **pranitpawar880@gmail.com**
