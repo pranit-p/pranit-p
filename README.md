@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranit Pawar</h1>
 <h3 align="center">A passionate coder from India</h3> 
+
 ![](https://komarev.com/ghpvc/?username=pranit-p&color=green)
 
 
