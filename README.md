@@ -30,15 +30,3 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranit-p&theme=github-dark-dimmed&custom_title=Pranit%20Pawar's%20Activity%20Graph&hide_border=true)](https://github.com/pranit-p/github-readme-activity-graph)
 
-
-#### Recent Activity
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.7%20million%20lines%20of%20code-blue)
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranit-p&show_icons=true&locale=en&layout=compact" alt="pranit-p" /></p>
-
