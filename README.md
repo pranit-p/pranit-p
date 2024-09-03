@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70BE6&duration=5300&lines=Welcome+to+my+GitHub+Profile;Always+try+to+learn+new+things;Never+give+up;)](https://git.io/typing-svg)
 
-- 💬 Ask me about **AWS, Terraform**
+- 💬 Ask me about **AWS, Terraform, Python, Golang, Kubernetes **
 
 - 📫 How to reach me **pranitpawar880@gmail.com**
 
