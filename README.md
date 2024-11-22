@@ -20,10 +20,8 @@
 
 ### Profile Stats
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranit-p&theme=shadow-green&date_format=j%20M%5B%20Y%5D&card_width=504&card_height=198)](https://git.io/streak-stats)
-
-![pranit-p's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranit-p&theme=shadow-green&show_icons=true&hide_border=false)
+![pranit-p's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranit-p&theme=shadow-green&show_icons=true&hide_border=false&layout=compact)
 
 ### Activities
 
