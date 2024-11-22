@@ -19,6 +19,9 @@
 
 
 ### Profile Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranit-p&theme=whatsapp-light2&date_format=j%20M%5B%20Y%5D&card_width=504&card_height=198)](https://git.io/streak-stats)
+
 ![pranit-p's Stats](https://github-readme-stats.vercel.app/api?username=pranit-p&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![pranit-p's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranit-p&theme=vue-dark&hide_border=true)
 ![pranit-p's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranit-p&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
