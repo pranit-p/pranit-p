@@ -25,5 +25,5 @@
 
 ### Activities
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranit-p&theme=github-dark-dimmed&custom_title=Pranit%20Pawar's%20Activity%20Graph&hide_border=true)](https://github.com/pranit-p/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranit-p&theme=shadow-green&custom_title=Pranit%20Pawar's%20Activity%20Graph&hide_border=true)](https://github.com/pranit-p/github-readme-activity-graph)
 
