@@ -21,9 +21,9 @@
 ### Profile Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pranit-p&theme=shadow-green&date_format=j%20M%5B%20Y%5D&card_width=504&card_height=198)](https://git.io/streak-stats)
-![pranit-p's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranit-p&theme=shadow-green&show_icons=true&hide_border=false&layout=compact)
+![pranit-p Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranit-p&theme=shadow-green&show_icons=true&hide_border=false&layout=compact)
 
 ### Activities
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranit-p&theme=shadow-green&custom_title=Pranit%20Pawar's%20Activity%20Graph&hide_border=true)](https://github.com/pranit-p/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranit-p&theme=shadow-green&custom_title=Pranit%20Activity%20Graph&hide_border=false)](https://github.com/pranit-p/github-readme-activity-graph)
 
