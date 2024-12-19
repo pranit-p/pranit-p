@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **AWS, Terraform, Python, Golang, Kubernetes**
 
-- 📫 How to reach me **pranitpawar880@gmail.com**
+- 📫 How to reach me **pranitpawar880@gmail.com**, **https://pranit.xyz** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
