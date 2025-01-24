@@ -14,7 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pranit-p&color=brightgreen&style=for-the-badge)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranit-7/)](https://www.linkedin.com/in/pranit-7/)
 [![Website Badge](https://img.shields.io/badge/-pranit.xyz-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://pranit.xyz)](https://pranit.xyz)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=Youtube&logoColor=red&link=https://www.youtube.com/@pranit-xyz)](https://www.youtube.com/@pranit-xyz)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/@pranit-xyz)](https://www.youtube.com/@pranit-xyz)
 
 
 ### Activities
