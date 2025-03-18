@@ -6,6 +6,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step Guide to Automating Kubernetes Backups and Restores](https://pranit-p.medium.com/step-by-step-guide-to-automating-kubernetes-backups-and-restores-1019defe1644?source=rss-cc1e62023170------2)
 - [Why the Median is a Better Choice Than the Mean for Outlier Detection in Z-Scores](https://pranit-p.medium.com/why-the-median-is-a-better-choice-than-the-mean-for-outlier-detection-in-z-scores-b436d282f508?source=rss-cc1e62023170------2)
 - [Build and Push Docker Image to Amazon ECR Using Terraform | Step by Step](https://pranit-p.medium.com/build-and-push-docker-image-to-amazon-ecr-using-terraform-step-by-step-10842acf7674?source=rss-cc1e62023170------2)
 - [Automating Infrastructure Deployment: A Step-by-Step Guide](https://pranit-p.medium.com/automating-infrastructure-deployment-a-step-by-step-guide-164358b26828?source=rss-cc1e62023170------2)
