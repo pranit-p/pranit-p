@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '30 18 * * 1'
   workflow_dispatch:
 
 permissions:
