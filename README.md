@@ -6,6 +6,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Fast, Stay Secure: Unleashing the Power of Shift Left Security in DevSecOps](https://pranit-p.medium.com/build-fast-stay-secure-unleashing-the-power-of-shift-left-security-in-devsecops-27b55de90b95?source=rss-cc1e62023170------2)
 - [From Zero to GitOps Hero: Set Up ArgoCD on Kubernetes with Multi-Cluster Deployment](https://pranit-p.medium.com/from-zero-to-gitops-hero-set-up-argocd-on-kubernetes-with-multi-cluster-deployment-57c7dfcfb8b3?source=rss-cc1e62023170------2)
 - [Step-by-Step Guide to Automating Kubernetes Backups and Restores](https://pranit-p.medium.com/step-by-step-guide-to-automating-kubernetes-backups-and-restores-1019defe1644?source=rss-cc1e62023170------2)
 - [Why the Median is a Better Choice Than the Mean for Outlier Detection in Z-Scores](https://pranit-p.medium.com/why-the-median-is-a-better-choice-than-the-mean-for-outlier-detection-in-z-scores-b436d282f508?source=rss-cc1e62023170------2)
